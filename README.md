@@ -7,4 +7,4 @@ Here's an article on [Medium]() I published that talks about it in little detail
 
 And here's the final result:
 
-![Minard's Chart of Napoleon's Russian Campaign](https://github.com/amitamola/minard_chart/blob/master/ultimate_final.png)
+![Minard's Chart of Napoleon's Russian Campaign](https://github.com/amitamola/minard_chart/blob/main/Ultimate_final.png)
